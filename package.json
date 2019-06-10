@@ -2,7 +2,7 @@
   "name": "test_module_extension",
   "version": "1.0.0",
   "description": "try extend test_module",
-  "main": "map-layer.js",
+  "main": "src/map-layer.js",
   "files": [
     "src"
   ],
